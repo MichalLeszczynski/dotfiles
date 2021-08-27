@@ -1,2 +1,2 @@
 # dotfiles
-Dotfles for my workbench setup
+Dotfiles for my workbench setup
